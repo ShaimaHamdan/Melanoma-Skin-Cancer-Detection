@@ -63,8 +63,8 @@ This project evaluates four deep learning models for binary melanoma classificat
 | Setting | Notebook 1 (No HE) | Notebook 2 (With HE) |
 |---|---|---|
 | Input size | 224×224 | 300×300 |
-| Train samples | 7,684 | 8,000 |
-| Validation samples | 1,921 | 2,000 |
+| Train samples | 8,000| 8,000 |
+| Validation samples | 2,000 | 2,000 |
 | Test samples | 1,000 | 1,000 |
 | Train/Val split | 80/20 (stratified) | 80/20 (stratified) |
 | Epochs | 15 | 15 |
